@@ -1,1 +1,1 @@
-An azure function that shows your ip.
+An Azure function that shows your ip.
